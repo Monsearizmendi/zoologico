@@ -14,5 +14,17 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
+    return view('index');
+})->name('inicio');
+
+Route::get('/Sobre-Animales', function () {
+    return view('about');
+})->name('sobre');
+
+Route::get('/Galeria', function () {
+    return view('gallery');
+})->name('gale');
+
+Route::get('/Contacto', function () {
+    return view('contact');
+})->name('contacto');
