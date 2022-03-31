@@ -169,26 +169,6 @@ http://www.tooplate.com/view/2085-neuron
                               <a href="{{route('sobre')}}" class="btn btn-default">Continuar leyendo</a>
                          </div>
                     </div>
-
-                    <div class="blog-post-thumb">
-                         <div class="blog-post-image">
-                              <a href="single-post.html">
-                                   <img src="images/blog-image4.jpg" class="img-responsive" alt="Blog Image">
-                              </a>
-                         </div>
-                         <div class="blog-post-title">
-                              <h3><a href="single-post.html">Vestibulum vel mauris nec ex tempus</a></h3>
-                         </div>
-                         <div class="blog-post-format">
-                              <span><a href="#"><img src="images/author-image1.jpg" class="img-responsive img-circle"> Jen Lopez</a></span>
-                              <span><i class="fa fa-date"></i> March 12, 2017</span>
-                              <span><a href="#"><i class="fa fa-comment-o"></i> 256 Comments</a></span>
-                         </div>
-                         <div class="blog-post-des">
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                              <a href="{{route('sobre')}}" class="btn btn-default">Continue Reading</a>
-                         </div>
-                    </div>
                </div>
 
           </div>
@@ -202,18 +182,17 @@ http://www.tooplate.com/view/2085-neuron
           <div class="row">
 
                <div class="col-md-5 col-md-offset-1 col-sm-6">
-                    <h3>Neuron Studio</h3>
-                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                    <h3>Más</h3>
+                    <p>si te gusto esta pequeña descripción sobre los animalitos, puedes contactarnos para saber mas o para sacar un paquete en nuestro Zoologico</p>
                     <div class="footer-copyright">
-                         <p>Copyright &copy; 2017 Your Company - Design: Tooplate</p>
                     </div>
                </div>
 
                <div class="col-md-4 col-md-offset-1 col-sm-6">
-                    <h3>Talk to us</h3>
-                    <p><i class="fa fa-globe"></i> 512 Delicious Street, San Francisco, CA 10880</p>
-                    <p><i class="fa fa-phone"></i> 010-020-0990</p>
-                    <p><i class="fa fa-save"></i> info@company.com</p>
+                    <h3>contactanos</h3>
+                    <p><i class="fa fa-globe"></i> </p>
+                    <p><i class="fa fa-phone"></i> 546-578-321</p>
+                    <p><i class="fa fa-save"></i> monse2012018@gmail.com</p>
                </div>
 
                <div class="clearfix col-md-12 col-sm-12">

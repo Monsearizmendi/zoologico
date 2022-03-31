@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Neuron Template - Gallery</title>
+<title>Galeria de Animales</title>
 <!--
 
 Template 2085 Neuron
@@ -69,7 +69,7 @@ http://www.tooplate.com/view/2085-neuron
           <div class="row">
 
                <div class="col-md-12 col-sm-12">
-                    <h1>Image Gallery</h1>
+                    <h1>Galeria de Animales</h1>
                </div>
 
           </div>
@@ -83,14 +83,13 @@ http://www.tooplate.com/view/2085-neuron
           <div class="row">
 
                <div class="col-md-offset-1 col-md-10 col-sm-12">
-                    <h2>Beautiful Images with Magnific Popup..</h2>
-                    <p>Aliquam blandit velit nisi, sed fringilla felis lacinia sed. Integer vitae porta felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus non tristique lacus. Suspendisse ut tortor vitae risus lacinia tristique. Aliquam sed consectetur libero.</p>
-                    <p>Morbi tellus dolor, porta dignissim enim sit amet, dapibus sagittis erat. In blandit elit sit amet dui aliquet congue nec vel quam. Integer id tristique libero.</p>
+                    
+                    
                     <span></span>
                     <div class="col-md-6 col-sm-6">
                          <div class="gallery-thumb">
                               <a href="images/gallery-image1.jpg" class="image-popup">
-                                   <img src="images/gallery-image1.jpg" class="img-responsive" alt="Gallery Image">
+                                   <img src="images/9.png" class="img-responsive" alt="Gallery Image">
                               </a>
                          </div>
                     </div>
@@ -98,7 +97,7 @@ http://www.tooplate.com/view/2085-neuron
                     <div class="col-md-6 col-sm-6">
                          <div class="gallery-thumb">
                               <a href="images/gallery-image2.jpg" class="image-popup">
-                                   <img src="images/gallery-image2.jpg" class="img-responsive" alt="Gallery Image">
+                                   <img src="images/10.png" class="img-responsive" alt="Gallery Image">
                               </a>
                          </div>
                     </div>
@@ -106,23 +105,15 @@ http://www.tooplate.com/view/2085-neuron
                     <div class="col-md-6 col-sm-6">
                          <div class="gallery-thumb">
                               <a href="images/gallery-image3.jpg" class="image-popup">
-                                   <img src="images/gallery-image3.jpg" class="img-responsive" alt="Gallery Image">
+                                   <img src="images/11.png" class="img-responsive" alt="Gallery Image">
                               </a>
                          </div>
                     </div>
 
                     <div class="col-md-6 col-sm-6">
                          <div class="gallery-thumb">
-                              <a href="images/gallery-image4.jpg" class="image-popup">
-                                   <img src="images/gallery-image4.jpg" class="img-responsive" alt="Gallery Image">
-                              </a>
-                         </div>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                         <div class="gallery-thumb">
-                              <a href="images/gallery-image5.jpg" class="image-popup">
-                                   <img src="images/gallery-image5.jpg" class="img-responsive" alt="Gallery Image">
+                              <a href="images/12.png" class="image-popup">
+                                   <img src="images/12.png" class="img-responsive" alt="Gallery Image">
                               </a>
                          </div>
                     </div>
@@ -130,13 +121,16 @@ http://www.tooplate.com/view/2085-neuron
                     <div class="col-md-6 col-sm-6">
                          <div class="gallery-thumb">
                               <a href="images/gallery-image6.jpg" class="image-popup">
-                                   <img src="images/gallery-image6.jpg" class="img-responsive" alt="Gallery Image">
+                                   <img src="images/14.png" class="img-responsive" alt="Gallery Image">
                               </a>
                          </div>
                     </div>
-
-                    <div class="col-md-12 col-sm-12">
-                         <p>Aliquam blandit velit nisi, sed fringilla felis lacinia sed. Integer vitae porta felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus non tristique lacus.</p>
+                     <div class="col-md-6 col-sm-6">
+                         <div class="gallery-thumb">
+                              <a href="images/gallery-image1.jpg" class="image-popup">
+                                   <img src="images/8.png" class="img-responsive" alt="Gallery Image">
+                              </a>
+                         </div>
                     </div>
                </div>
 
@@ -150,19 +144,18 @@ http://www.tooplate.com/view/2085-neuron
      <div class="container">
           <div class="row">
 
-               <div class="col-md-5 col-md-offset-1 col-sm-6">
-                    <h3>Neuron Studio</h3>
-                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+          <div class="col-md-5 col-md-offset-1 col-sm-6">
+                    <h3>Más</h3>
+                    <p>si te gusto esta pequeña descripción sobre los animalitos, puedes contactarnos para saber mas o para sacar un paquete en nuestro Zoologico</p>
                     <div class="footer-copyright">
-                         <p>Copyright &copy; 2017 Your Company - Design: Tooplate</p>
                     </div>
                </div>
 
                <div class="col-md-4 col-md-offset-1 col-sm-6">
-                    <h3>Talk to us</h3>
-                    <p><i class="fa fa-globe"></i> 512 Delicious Street, San Francisco, CA 10880</p>
-                    <p><i class="fa fa-phone"></i> 010-020-0990</p>
-                    <p><i class="fa fa-save"></i> info@company.com</p>
+                    <h3>contactanos</h3>
+                    <p><i class="fa fa-globe"></i> </p>
+                    <p><i class="fa fa-phone"></i> 546-578-321</p>
+                    <p><i class="fa fa-save"></i> monse2012018@gmail.com</p>
                </div>
 
                <div class="clearfix col-md-12 col-sm-12">

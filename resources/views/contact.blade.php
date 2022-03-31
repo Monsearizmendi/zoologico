@@ -114,19 +114,18 @@ http://www.tooplate.com/view/2085-neuron
      <div class="container">
           <div class="row">
 
-               <div class="col-md-5 col-md-offset-1 col-sm-6">
-                    <h3>Neuron Studio</h3>
-                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+          <div class="col-md-5 col-md-offset-1 col-sm-6">
+                    <h3>Más</h3>
+                    <p>si te gusto esta pequeña descripción sobre los animalitos, puedes contactarnos para saber mas o para sacar un paquete en nuestro Zoologico</p>
                     <div class="footer-copyright">
-                         <p>Copyright &copy; 2017 Your Company - Design: Tooplate</p>
                     </div>
                </div>
 
                <div class="col-md-4 col-md-offset-1 col-sm-6">
-                    <h3>Talk to us</h3>
-                    <p><i class="fa fa-globe"></i> 512 Delicious Street, San Francisco, CA 10880</p>
-                    <p><i class="fa fa-phone"></i> 010-020-0990</p>
-                    <p><i class="fa fa-save"></i> info@company.com</p>
+                    <h3>contactanos</h3>
+                    <p><i class="fa fa-globe"></i> </p>
+                    <p><i class="fa fa-phone"></i> 546-578-321</p>
+                    <p><i class="fa fa-save"></i> monse2012018@gmail.com</p>
                </div>
 
                <div class="clearfix col-md-12 col-sm-12">
