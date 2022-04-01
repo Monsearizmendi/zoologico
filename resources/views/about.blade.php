@@ -51,7 +51,7 @@ http://www.tooplate.com/view/2085-neuron
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
                     <li><a href="{{route('inicio')}}">Inicio</a></li>
-                    <li class="active"><a href="{{route('sobre')}}">Sobre Animales</a></li>
+                    <li class="active"><a href="{{route('about')}}">Sobre Animales</a></li>
                     <li><a href="{{route('gale')}}">Galeria</a></li>
                     <li><a href="{{route('contacto')}}">Contacto</a></li>
                </ul>
@@ -129,9 +129,33 @@ http://www.tooplate.com/view/2085-neuron
                          <h3>Tecolote</h3>
                          <p>El tecolote tiene la particularidad de ser capaz de girar la cabeza hasta 270º para observar algo alrededor, mientras el resto del cuerpo permanece sin el más mínimo movimiento. La gran capacidad de la vista y el oído hace de los tecolotes o búhos magistrales cazadores.</p>
                     </div>
-					
+                    <br>
+                    <br>
+                        
+                    @foreach ($carnivoros as $carnivoro)
+                    
+                    <div class="col-md-10 col-sm-10">
+                    <h6> ANIMALES CARNIVOROS </h6> 
+                         <h3>{{$carnivoro['Nombre']}} </h3>
+                         <p>{{$carnivoro['Nombre_C']}} </p>
+                         <p>{{$carnivoro['Habitat']}} </p>
+                         <p>{{$carnivoro['Alimento']}} </p> 
+                    </div>
+                    @endforeach 
+                    
+                    
+                    @foreach ($herbívoros as $herbívoro)
+                    
+                    <div class="col-md-10 col-sm-10">
+                    <h6> ANIMALES HERBÍVORO </h6>
+                         <h3>{{$herbívoro['Nombre']}} </h3>
+                         <p>{{$herbívoro['Nombre_C']}} </p>
+                         <p>{{$herbívoro['Habitat']}} </p>
+                         <p>{{$herbívoro['Alimento']}} </p> 
+                    </div>
+                    @endforeach 
                </div>
-
+          
           </div>
      </div>
 </section>

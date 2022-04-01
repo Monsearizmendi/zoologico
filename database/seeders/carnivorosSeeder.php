@@ -19,9 +19,9 @@ class carnivorosSeeder extends Seeder
         $nombre=["Leon","Cocodrilo","Tigre","Lobo","Gatos","Pumas","Perro","Ballena"];
         $nombre_c=["Panthera leo","Crocodylidae","Panthera tigris","Canis lupus","Felis catus","Puma concolor","Canis lupus familiaris","Balaenidae"];
         $habitat=["Habitan en las sabanas africanas y en una zona reducida del noreste de la India","Los cocodrilos son habitantes de pantanos, lagos y ríos, aunque algunas especies se dirigen a aguas salobres o al mar.","selvas tropicales, pastizales, sabanas e incluso manglares"," bosques de las montañas y los desiertos","El gato salvaje vive en bosques, y en lugares poco degradados y alejados de los núcleos urbanos","bosques nativos y cultivados, coironales, zonas cordilleranas andinas y algunas zonas montañosas costeras","casas o la calle ","viven en prácticamente todos los océanos del mundo"];
-        $alimento=["pescado","pollo","res","cerdo"];
+        $alimento=["pescado","pollo","res","cerdo","pescado","pollo","res"];
 
-        for($i =0;$i<5;$i++)
+        for($i =0;$i<7;$i++)
                 {
                     DB::table('carnivoros')->insert([
                     'Nombre' =>$nombre[$i],

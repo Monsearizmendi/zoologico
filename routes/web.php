@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\carnivorosController;
+use App\Http\Controllers\herbívorosController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,9 +19,6 @@ Route::get('/', function () {
     return view('index');
 })->name('inicio');
 
-Route::get('/Sobre-Animales', function () {
-    return view('about');
-})->name('sobre');
 
 Route::get('/Galeria', function () {
     return view('gallery');
@@ -28,3 +27,5 @@ Route::get('/Galeria', function () {
 Route::get('/Contacto', function () {
     return view('contact');
 })->name('contacto');
+
+Route::get('/Sobre-Animales', [carnivorosController::class,'carnivoros'])->name('about');
